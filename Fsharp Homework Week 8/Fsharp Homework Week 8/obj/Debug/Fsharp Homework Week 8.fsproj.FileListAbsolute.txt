@@ -1,0 +1,8 @@
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\bin\Debug\Fsharp_Homework_Week_8.exe.config
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\bin\Debug\Fsharp_Homework_Week_8.XML
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\bin\Debug\Fsharp_Homework_Week_8.exe
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\bin\Debug\Fsharp_Homework_Week_8.pdb
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\bin\Debug\FSharp.Core.dll
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\bin\Debug\FSharp.Core.xml
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\obj\Debug\Fsharp_Homework_Week_8.exe
+c:\users\bentles\documents\visual studio 2013\Projects\Fsharp Homework Week 8\Fsharp Homework Week 8\obj\Debug\Fsharp_Homework_Week_8.pdb
